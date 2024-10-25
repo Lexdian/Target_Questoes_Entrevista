@@ -1,0 +1,10 @@
+3) A soma será 77
+
+4)
+a)9 (os números aumentam de 2 em 2)
+b)128 (sempre o dobro do número anterior)
+c)49(começa somando 1 e vai progredindo o valor da some de 2 em 2, ou seja, soma 1, depois soma 1+2, depois 1+2+2, depois 1+2+2+2,...)
+d)100 (começa somando 12 e vai progredindo o valor da soma de 8 em 8, ou seja, soma 12, depois soma 12+8, depois 12+8+2, depois 12+8+8+8,...)
+e)13 (sequência de Fibonacci)|f)200 (números começados pela letra 'D')
+
+5) Primeiro ligaria um dos interruptores e esperaria alguns minutos, então desligaria esse interruptor e ligaria outro, logo em seguida iria verificar uma das lâmpadas, caso a lâmpada esteja acessa ela é ligada pelo ultimo interruptor que mexi (o que esta ligado), caso esteja desliga eu verifico a temperatura, se estiver quente então ela é ligada pelo primeiro interruptor que mexi (o que desliguei depois de uns minutos), caso não esteja quente então ela é ligada pelo único interruptor que não mexi. Voltando para a sala com os interruptores eu deligaria todos eles, e ligaria um dos dois interruptores que ainda não sei qual lâmpada ligam, depois verificaria uma das duas lâmpadas restantes, caso ela esteja acessa então o interruptor que a liga é aquele que deixei ligado, caso contrario o interruptor que a liga será o que deixei desligado, dessa forma a única lâmpada que não verifiquei é ligada pelo interruptor restante, assim saberei qual interruptor liga qual lâmpada.
